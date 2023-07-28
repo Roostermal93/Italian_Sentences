@@ -1,0 +1,151 @@
+{
+    "count": 24,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "00b11496-2ffd-4bff-bad7-74ebfc73be67",
+            "collectionId": "Italian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "0257202f-cb15-4a30-92ca-b1fc072bee00",
+            "collectionId": "Italian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "08171ce7-8b0e-48c9-b2ec-185eddb62cd2",
+            "collectionId": "Italian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "237d39e4-0f9e-4303-9989-c77872429396",
+            "collectionId": "Italian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "238b666b-44fe-4e36-a66c-57d1c7855b56",
+            "collectionId": "Italian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "30bb1b30-1af5-4004-ad79-5cba8550d05f",
+            "collectionId": "Italian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "4742a64a-b049-4a3c-b000-a514e2c5f215",
+            "collectionId": "Italian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "51d27bbe-2b5b-4730-a37b-f6bd15df1139",
+            "collectionId": "Italian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "54ba0ebf-ba5c-4d7b-99c8-f535a65fbf96",
+            "collectionId": "Italian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "570eafe7-46d0-414d-8a06-ebcba2e73059",
+            "collectionId": "Italian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "58c0b352-91f3-4ce3-831a-092a719dbf03",
+            "collectionId": "Italian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "5a1a850d-f107-42e3-bc7b-40b0a64d7e22",
+            "collectionId": "Italian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "5b00b728-a8de-49a2-b0d7-d86d569193a8",
+            "collectionId": "Italian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "64c7898b-f256-4f69-8865-fc5931d6c9f1",
+            "collectionId": "Italian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "8ebc76a4-1765-4dd8-b923-d0cecd221cf5",
+            "collectionId": "Italian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "98b8a903-80b0-4f89-bbd2-9f8f1bd4fd09",
+            "collectionId": "Italian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "99298b61-db5f-4c4e-a688-3462cb00fef2",
+            "collectionId": "Italian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "b2fa097c-bef4-4359-88f9-41bb017984db",
+            "collectionId": "Italian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "b8cee45c-64dd-40f1-94e8-f1e0d3b3435a",
+            "collectionId": "Italian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "c7857b8f-39fd-49bf-9067-7fea6456b5da",
+            "collectionId": "Italian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "c8b772e8-2445-4fce-825c-742508f2b5d1",
+            "collectionId": "Italian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "d30b7483-8dcf-4c96-b02a-1e812090907c",
+            "collectionId": "Italian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "e0979c99-7485-41fe-b57e-48053ae873be",
+            "collectionId": "Italian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "ec6ebfcd-39a8-4348-b704-58189f226c89",
+            "collectionId": "Italian",
+            "type": "Sentences",
+            "status": "private"
+        }
+    ]
+}
